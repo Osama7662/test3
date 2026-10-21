@@ -10,4 +10,8 @@ public class GitTestPsaApplication {
 		SpringApplication.run(GitTestPsaApplication.class, args);
 	}
 
+	public String greet(){
+		return "Hello";
+	}
+
 }
