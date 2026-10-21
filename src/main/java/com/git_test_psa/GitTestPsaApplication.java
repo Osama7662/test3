@@ -15,9 +15,10 @@ public class GitTestPsaApplication {
 	}
 	int x = 500;
         
-        int z = 200;
+        int z = 100;
         int y = 2000;
 
 }
+
 
 }
