@@ -13,6 +13,6 @@ public class GitTestPsaApplication {
 	public String greet(){
 		return "Hello";
 	}
-	String x = "Sona";
+	int x = 500;
 
 }
