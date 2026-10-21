@@ -10,12 +10,12 @@ public class GitTestPsaApplication {
 		SpringApplication.run(GitTestPsaApplication.class, args);
 	}
 
+
 	public String greet(){
 		return "Hello";
 	}
 	int x = 500;
         
-        int z = 100;
-        int y = 2000;
-
+  int z = 100;
+  int y = 2000;
 }
