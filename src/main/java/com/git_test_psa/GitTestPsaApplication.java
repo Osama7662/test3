@@ -14,5 +14,5 @@ public class GitTestPsaApplication {
 		return "Hello";
 	}
 	int x = 500;
-
+	int y = 1000;
 }
