@@ -9,5 +9,15 @@ public class GitTestPsaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestPsaApplication.class, args);
 	}
+	
+	public String greet(){
+		return "Hello";
+	}
+	int x = 500;
+        
+        int z = 200;
+        int y = 2000;
+
+}
 
 }
